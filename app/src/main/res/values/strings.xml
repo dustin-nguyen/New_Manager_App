@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_saved_news">Saved News</string>
+    <string name="menu_accounts">Accounts</string>
+    <string name="view_holder_date">Date</string>
+    <string name="view_holder_title">Title</string>
+    <string name="view_holder_description">Description</string>
+    <string name="view_holder_save_news">Save News</string>
+    <string name="option_menu_search">Search</string>
+    <string name="enter_search_key">Enter Search key</string>
+    <string name="search_dialog_button">Search</string>
+    <string name="splash_intro">Welcome to News Management App</string>
+</resources>
